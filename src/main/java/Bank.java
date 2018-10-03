@@ -9,6 +9,7 @@
  */
 public class Bank {
 
+
     public String bankName;
 
     public Bank() {
@@ -29,6 +30,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        System.out.println("yeah!!");
     }
 
     /**
